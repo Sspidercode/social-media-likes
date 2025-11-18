@@ -12,7 +12,7 @@ Likes module and supporting API for a social media feed, built with **Next.js Ap
   - **Optimistic UI**: 
   - **Polling / SSE ready**:
   - **Server as source of truth**:
-  - **MongoDB**: हर `(postId, userId)`
+  - **MongoDB**:
 
 ---
 
